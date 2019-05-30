@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/añadirComentario"
+        android:title="Añadir usuario"
+        android:icon="@drawable/add"
+        app:showAsAction="always"/>
+    <item android:id="@+id/talleres"
+        android:icon="@drawable/car"
+        android:title="Ver talleres"
+        app:showAsAction="always"/>
+    <item android:id="@+id/verComentarios"
+        android:title="Ver comentarios"
+        android:icon="@drawable/eye"
+        app:showAsAction="always"/>
+
+</menu>

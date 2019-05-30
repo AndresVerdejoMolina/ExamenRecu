@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402172847527",
+    "firebase_url": "https://examenrecu-e7a8f.firebaseio.com",
+    "project_id": "examenrecu-e7a8f",
+    "storage_bucket": "examenrecu-e7a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402172847527:android:8033585b3698a7df",
+        "android_client_info": {
+          "package_name": "com.example.examenrecu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402172847527-10pgpdj6obp8h4i0rclrtrcd07d6gm43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examenrecu",
+            "certificate_hash": "c19912c6b900ae5ff8276263f171d59a4e7a649f"
+          }
+        },
+        {
+          "client_id": "402172847527-tolbksrpshn6psguhnfd13kg1bk1s07g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2wZh8hPHw76kuSdS_Yy0iIIDBXpLaZv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402172847527-tolbksrpshn6psguhnfd13kg1bk1s07g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
